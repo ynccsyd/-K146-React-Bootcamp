@@ -82,7 +82,7 @@ const Product =React.memo( ({ name, price, addToCart }) => {
 
 [Video_2022_10_21-10.webm](https://user-images.githubusercontent.com/109158340/197275046-65a2ed7e-6c95-426b-b5bd-606714427cb5.webm)
 
-- consolda bir kere çaşıltırıldığı görülüyor:)
+- consolda bir kere çalıştırıldığı görülüyor:)
 
 
 
